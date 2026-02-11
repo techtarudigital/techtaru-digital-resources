@@ -1,4 +1,3 @@
-# techtaru-digital-resources
 # Techtaru Digital Resources
 
 Techtaru is an IT company delivering web development, mobile app development, UI/UX design, and digital marketing solutions that help businesses build a strong digital presence.
